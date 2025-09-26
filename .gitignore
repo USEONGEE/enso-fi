@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+.DS_Store
+.pytest_cache/
+
+*profile*.html
+*profile*.json
+_README.md
+docker-compose*
